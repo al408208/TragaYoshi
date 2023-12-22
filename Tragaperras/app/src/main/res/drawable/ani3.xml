@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/fresa" android:duration="125"></item>
+    <item android:drawable="@drawable/campana" android:duration="125"></item>
+    <item android:drawable="@drawable/limon" android:duration="125"></item>
+    <item android:drawable="@drawable/siete" android:duration="125"></item>
+    <item android:drawable="@drawable/dolar" android:duration="125"></item>
+    <item android:drawable="@drawable/cereza" android:duration="125"></item>
+
+</animation-list>
